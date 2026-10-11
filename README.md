@@ -6,7 +6,7 @@ market-structure trading strategy.
 ## Current approach
 
 Human:
-- Selects TPO/volume-profile levels each week
+- Identifies structural volume and price thresholds each week
 - Determines important market structure
 
 Computer:
