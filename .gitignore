@@ -1,0 +1,21 @@
+#python environment
+.venv/
+venv/
+
+#python cache
+__pycache__/
+*.py[cod]
+
+#secrets and local configuration
+.env
+.env.*
+!.env.example
+
+#jupyter temporary files
+.ipynb_checkpoints/
+
+#editor settings
+.vscode/
+
+#local trading data (check licensing before sharing)
+data/
